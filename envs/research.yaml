@@ -1,0 +1,22 @@
+name: research
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - jupyterlab
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - rdkit
+  - openbabel
+  - r-base
+  - r-tidyverse
+  - r-rmarkdown
+  - pip:
+      - sentence-transformers
+      - biopython
+      - mdtraj
