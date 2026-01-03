@@ -1,0 +1,3 @@
+Initial descriptors: 0
+Retained descriptors: 0
+Removed descriptors: 0
