@@ -1,0 +1,6 @@
+Graphical Abstract.
+Overview of the reproducible cheminformatics-to-QSAR workflow.
+Small molecules encoded as SMILES are processed using RDKit to compute
+physicochemical descriptors, followed by variance-based feature filtering,
+scaling, and baseline QSAR modeling. All steps are executed in a pinned
+computational environment with full version control.
