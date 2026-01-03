@@ -1,0 +1,5 @@
+MolecularWeight: 194.194
+LogP: -1.029
+HBD: 0.000
+HBA: 6.000
+TPSA: 61.820
