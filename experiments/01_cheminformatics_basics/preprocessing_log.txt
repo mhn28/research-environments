@@ -1,0 +1,6 @@
+QSAR preprocessing completed
+Descriptors: 5
+Train samples: 3
+Test samples: 2
+Scaling: StandardScaler (fit on train only)
+Random seed: 42
